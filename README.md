@@ -1,7 +1,7 @@
 # 伝統的建造物群保存地区
 
-- [宿場町マップ](https://code4fukui.github.io/denkenchiku/)
-- [伝統的建造物群保存地区一覧](https://code4fukui.github.io/denkenchiku/list.html)
+- [伝統的建造物群保存地区一覧](https://code4fukui.github.io/denkenchiku/)
+- [宿場町マップ - 伝統的建造物群保存地区選定](https://code4fukui.github.io/denkenchiku/syukubamachi.html)
 
 ## 出典
 
