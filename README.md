@@ -1,5 +1,7 @@
 # denkenchiku
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This repository contains data and resources related to the preservation of traditional building groups in Japan.
 
 ## Features
