@@ -1,8 +1,16 @@
-# 伝統的建造物群保存地区
+# denkenchiku
 
-- [伝統的建造物群保存地区一覧](https://code4fukui.github.io/denkenchiku/)
-- [宿場町マップ - 伝統的建造物群保存地区選定](https://code4fukui.github.io/denkenchiku/syukubamachi.html) ※USDZファイルは CC BY [Code for FUKUI](https://code4fukui.github.io/)
+This repository contains data and resources related to the preservation of traditional building groups in Japan.
 
-## 出典
+## Features
+- List of important traditional building preservation districts in Japan
+- Map of historical post towns - traditional building preservation districts
 
-- [伝統的建造物群保存地区 | 文化庁](https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/)
+## Data
+The data is sourced from the [Agency for Cultural Affairs, Japan](https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/).
+
+## Usage
+This repository can be used to explore and access information about traditional building preservation districts in Japan.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
