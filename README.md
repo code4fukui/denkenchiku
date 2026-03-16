@@ -15,4 +15,4 @@ The data is sourced from the [Agency for Cultural Affairs, Japan](https://www.bu
 This repository can be used to explore and access information about traditional building preservation districts in Japan.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+MIT License — see [LICENSE](LICENSE).
